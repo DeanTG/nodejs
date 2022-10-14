@@ -8,3 +8,4 @@
 
 ## tips
 * [Node.js之http模块中类的关系详解之客户端](https://www.cnblogs.com/aicanxxx/p/7080775.html)
+* [Node.js 中的缓冲区（Buffer）究竟是什么？](https://juejin.cn/post/6844903897438371847#heading-11)
