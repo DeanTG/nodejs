@@ -3,3 +3,4 @@
 
 ## 核心模块
 * [http](https://github.com/DeanTG/nodejs/issues/1)
+* [URL](https://github.com/DeanTG/nodejs/issues/2)
